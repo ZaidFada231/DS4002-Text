@@ -1,7 +1,7 @@
 # Classification Model for Music Lyrics
 
 **Group Leader**: Malek Thabet  
-**Group Members**: Zaid Fada, Chris Wood  
+**Group Members**: Zaid Fada, Chris Woods
 **Course**: DS 4002  
 **Date**: 27 September 2024
 
