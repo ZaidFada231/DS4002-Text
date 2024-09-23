@@ -39,4 +39,5 @@ The dataset used for this project is the "English Music Lyrics from Five Music G
    git clone [repository link]
    cd [repository directory]
    ```
-2. ...
+2. Go to the `Data.md` and follow the steps to download our data there
+3.
