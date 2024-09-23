@@ -2,7 +2,6 @@
 
 **Group Leader**: Malek Thabet  
 **Group Members**: Zaid Fada, Chris Woods
-
 **Course**: DS 4002  
 **Date**: 27 September 2024
 
