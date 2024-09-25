@@ -72,4 +72,4 @@ The following steps were applied to clean and preprocess the data:
    - `\Data`
      - `cleaned_test_lyrics`
      - `cleaned_train_lyrics`
-5. All scripts will run based on this relative path
+5. All scripts will run based on this relative path to the `cleaned_train_lyrics`
