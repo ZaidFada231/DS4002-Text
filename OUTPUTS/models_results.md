@@ -29,6 +29,9 @@ This document outlines the results of various classifiers applied to the "Englis
 - **Support** is the number of true instances for each genre in the test set.
 
 ---
+### Benchmarks
+
+The benchmark models allow usto create a standard against which the performance of our previous model can be evaluated. In order to set realistic and achievable goals for improvement, the benchmark model must be simplistic in architectcure and features input into it. These models will be essential for driving future improvement and ensuring advancements in future iterations.
 
 ## Benchmark 1: Dummy Classifier
 
@@ -90,4 +93,4 @@ Cross-validation is used to evaluate the stability of the Random Forest Classifi
 
 ### Explanation:
 
-- Cross-validation ensures that the model’s accuracy is not biased by a particular train-test split. The accuracy is consistent across the folds, with an average of 0.4577, which reinforces the findings from the Random Forest Classifier’s initial test.
+- Cross-validation ensures that the model’s accuracy is not biased by a particular train-test split. It provided a more reliable assessment of a model's performance by incorporating all of the data, rather than a random subset. For future model iterations, it provides a clearer image of how hyperparamters (number of trees, max depth, class weight, etc.) affect performance The accuracy is consistent across the folds, with an average of 0.4577, which reinforces the findings from the Random Forest Classifier’s initial test.
