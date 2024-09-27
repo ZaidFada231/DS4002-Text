@@ -29,11 +29,11 @@ This document outlines the results of various classifiers applied to the "Englis
 - **Support** is the number of true instances for each genre in the test set.
 
 ---
-### Benchmarks
+## Benchmarks
 
 The benchmark models allow usto create a standard against which the performance of our previous model can be evaluated. In order to set realistic and achievable goals for improvement, the benchmark model must be simplistic in architectcure and features input into it. These models will be essential for driving future improvement and ensuring advancements in future iterations.
 
-## Benchmark 1: Dummy Classifier
+### Benchmark 1: Dummy Classifier
 
 The Dummy Classifier is a simple model used as a baseline for comparison. It predicts based on the most frequent class, which helps assess whether more advanced models provide meaningful improvements.
 
@@ -48,7 +48,7 @@ The Dummy Classifier is a simple model used as a baseline for comparison. It pre
 
 ---
 
-## Benchmark 2: KNN Classifier
+### Benchmark 2: KNN Classifier
 
 The K-Nearest Neighbors (KNN) Classifier assigns a class to a song based on the majority class of its nearest neighbors. In this case, 3 neighbors were used.
 
