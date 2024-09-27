@@ -73,4 +73,4 @@ The dataset used for this project is the "English Music Lyrics from Five Music G
 
 5. Review the results:
    - The model’s accuracy, precision, recall, and other performance metrics will be saved in the [models_results.md](OUTPUTS/models_results.md) file
-   - Visualizations, including the confusion matrix and other plots, will be saved in the `OUTPUTS/plots/` directory.
+   - Visualizations will be saved in the `OUTPUTS/plots/` directory.
